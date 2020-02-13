@@ -1,0 +1,7 @@
+/.vs
+/Debug
+/Release
+/x64
+/asio_server_client/Debug
+/asio_server_client/Release
+/asio_server_client/x64
